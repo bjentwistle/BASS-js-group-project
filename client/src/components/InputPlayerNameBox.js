@@ -70,6 +70,7 @@ const InputPlayerNameBox = ({users, createUser, getReturningUser, getMovies, ran
         <form onSubmit={handleReturningPlayerSubmit}>
         <div>
             <select onChange={handleSelectClick}>
+                <option selected="true" disabled="disabled">Choose Player</option>  
                 {existingPlayerOptions}
             </select>
         </div>
