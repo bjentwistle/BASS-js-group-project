@@ -35,7 +35,7 @@ REACT should open up in your browser (we recommend you use Chrome).
 
 Other things we added to our dependencies:
 
-- npm mongodb@3.5.7
+- npm i mongodb@3.5.7
 - npm i express
 - npm i –save-dev cors
 - npm install --save-dev nodemon
