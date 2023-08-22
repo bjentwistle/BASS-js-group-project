@@ -36,9 +36,6 @@ REACT should open up in your browser (we recommend you use Chrome).
   <img src="https://github.com/bjentwistle/BASS-js-group-project/blob/fa6a4068c7850c255341c298224e1f81ee19b8cc/movieguessinggame.png" width="450" title="Home page">
 </p>
 
-<p align="right">
-  <img src="https://github.com/bjentwistle/BASS-js-group-project/blob/fa6a4068c7850c255341c298224e1f81ee19b8cc/movieleaderboard.png" width="450" title="Leader Board">
-</p>
 
 Other things we added to our dependencies:
 
